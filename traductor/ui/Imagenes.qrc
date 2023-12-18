@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Img">
+    <file>abcdario_manos2.png</file>
+    <file>pregunta.png</file>
+    <file>webcam.png</file>
+    <file>Inacap Logo.png</file>
+    <file>Señas Chilenas.png</file>
+  </qresource>
+</RCC>
